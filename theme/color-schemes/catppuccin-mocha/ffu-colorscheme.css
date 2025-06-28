@@ -38,8 +38,8 @@ Custom Icons
     --uc-accent-color-6:     rgb(243, 139, 168);
     --uc-accent-color-7:     rgb(44, 55, 80);
     --uc-transparent:        rgba(0,0,0,0);
-    --uc-box-shadow: 0.15rem 0.3rem 0.3rem -0.1rem rgba(0,0,0,0.4);
-    --uc-box-shadow-panel: 0.15rem 0.3rem 0.3rem -0.1rem rgba(25,25,25,1);
+    --uc-box-shadow: 0;
+    --uc-box-shadow-panel: 0;
     --uc-button-border-radius: 10px;
 }}
 
